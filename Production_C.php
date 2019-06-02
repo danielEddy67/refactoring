@@ -9,7 +9,7 @@ class Production_C extends CI_Controller {
           $this->load->model('Poste_m');
 
     }
-
+// fonction pour l'index
     public function index()
     {  
         
